@@ -8,4 +8,4 @@
 
 ### Host on Netlify:
 
-[Click Here to View Demo on Netlify]()
+[Click Here to View Demo on Netlify](https://react-darkmode-dashboard.netlify.app/)
